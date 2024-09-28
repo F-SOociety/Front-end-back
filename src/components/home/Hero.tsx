@@ -1,8 +1,8 @@
 
 import heroImage from "../../assets/hero.png"; // Adjust this path based on your file structure
-import ellipse1 from "../../assets/hero.png";
-import ellipse2 from "../../assets/hero.png";
-import ellipse3 from "../../assets/hero.png";
+import ellipse1 from "../../assets/Ellipse 1.png";
+import ellipse2 from "../../assets/Ellipse 2.png";
+import ellipse3 from "../../assets/Ellipse 3.png";
 
 function HeroSection() {
   return (

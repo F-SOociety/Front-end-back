@@ -1,4 +1,5 @@
-
+import ellipse1 from '../assets/ellipse 1.png';
+import ellipse3 from '../assets/ellipse 3.png';
 
 function TestimonialSection() {
   return (
@@ -10,13 +11,7 @@ function TestimonialSection() {
             <div className="bg-white bg-opacity-10 rounded-xl p-6">
               <p className="text-lg mb-4">"The best chat app for all users to enjoy easy real-time chatting."</p>
               <div className="flex items-center">
-                <img
-                  src="/images/ellipse 1.png"
-                  alt="Eli Joon"
-                  width={40}
-                  height={40}
-                  className="rounded-full mr-3"
-                />
+                  <img src={ellipse1} alt="Eli Joon" width={40} height={40} className="rounded-full mr-3" />
                 <div>
                   <p className="font-semibold">Eli Joon</p>
                   <p className="text-sm text-gray-300">Medical Assistant</p>
@@ -26,13 +21,7 @@ function TestimonialSection() {
             <div className="bg-white bg-opacity-10 rounded-xl p-6">
               <p className="text-lg mb-4">"Rareblocks helps you optimize for engagement."</p>
               <div className="flex items-center">
-                <img
-                  src="/images/ellipse 2.png"
-                  alt="Sarah Doe"
-                  width={40}
-                  height={40}
-                  className="rounded-full mr-3"
-                />
+              <img src={ellipse3} alt="Eli Joon" width={40} height={40} className="rounded-full mr-3" />
                 <div>
                   <p className="font-semibold">Sarah Doe</p>
                   <p className="text-sm text-gray-300">Software Engineer</p>
