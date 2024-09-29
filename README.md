@@ -39,7 +39,7 @@ Usage
 
     Chat: Navigate to the chat section and start messaging with other users. The messages will be encrypted on the client side before being sent to the server.
 
-    Video Call: You can initiate video calls from the chat interface. The call is set up using WebRTC, ensuring a peer-to-peer connection for low-latency communication.
+    Video Call: You can initiate video calls from the chat interface. Ensuring a peer-to-peer connection for low-latency communication.
 
     Encryption: All chat messages and video calls are encrypted using end-to-end encryption to ensure the security of your communications. Messages are decrypted only on the recipient's device.
 
